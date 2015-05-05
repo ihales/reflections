@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git learns that important stuff will be happening. You need to tell get
+what you want to have backed up (basically)
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It creates a middle ground. It prepares for commits. It lets you commit as much or as little as you want at a time.
+
+
