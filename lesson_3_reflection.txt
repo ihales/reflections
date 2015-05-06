@@ -3,3 +3,15 @@ when multiple people are working on the project
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 you might be working on your own stuff and wouldn't want that to be wiped away.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+One copies on github. One copies on machine or and one isn't a copy. DO what suits the situation best.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+easier to tell the changes that you've made
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I'd use floppy disks. Way easier
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+do something crazy - less potential for getting fired.
